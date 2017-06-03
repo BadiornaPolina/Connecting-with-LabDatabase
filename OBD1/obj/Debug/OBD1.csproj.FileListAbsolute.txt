@@ -1,0 +1,11 @@
+E:\Курси\OBD1\OBD1\bin\Debug\OBD1.exe.config
+E:\Курси\OBD1\OBD1\bin\Debug\OBD1.exe
+E:\Курси\OBD1\OBD1\bin\Debug\OBD1.pdb
+E:\Курси\OBD1\OBD1\bin\Debug\MySql.Data.dll
+E:\Курси\OBD1\OBD1\bin\Debug\MySql.Data.xml
+E:\Курси\OBD1\OBD1\obj\Debug\OBD1.csprojResolveAssemblyReference.cache
+E:\Курси\OBD1\OBD1\obj\Debug\OBD1.Form1.resources
+E:\Курси\OBD1\OBD1\obj\Debug\OBD1.Properties.Resources.resources
+E:\Курси\OBD1\OBD1\obj\Debug\OBD1.csproj.GenerateResource.Cache
+E:\Курси\OBD1\OBD1\obj\Debug\OBD1.exe
+E:\Курси\OBD1\OBD1\obj\Debug\OBD1.pdb
